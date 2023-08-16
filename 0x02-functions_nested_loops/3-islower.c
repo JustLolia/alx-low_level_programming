@@ -1,11 +1,13 @@
 #include "main.h"
 
 /**
- * -islower - Checks for lowercase character
+ * _islower - Checks for lowercase character
+ * 
+ * Description: use _putchar to print
  *
  * @c: collect alphabets
  *
- *  Return: (1) if c is lower otherwise (0)
+ * Return: (1) if c is lower otherwise (0)
  *
  */
 int _islower(int c)
