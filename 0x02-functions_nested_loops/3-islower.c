@@ -2,7 +2,7 @@
 
 /**
  * _islower - Checks for lowercase character
- * 
+ *
  * Description: use _putchar to print
  *
  * @c: collect alphabets
